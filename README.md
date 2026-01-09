@@ -19,7 +19,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto" src=".github/preview.jpg">
+  <img src="https://github.com/veronicaskills-cmyk/Projeto/blob/main/.github/Preview.jpg">
 </p>
 
 ## 🚀 Tecnologias
